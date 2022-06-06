@@ -1,0 +1,24 @@
+{
+  "name": "practice07",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  },
+  "dependencies": {
+    "config": "^3.3.7",
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "mongoose": "^6.3.5",
+    "pug": "^3.0.2"
+  }
+}
